@@ -9,4 +9,5 @@ You need to install pynput.
 `pip install pynput`
 
 ## Output:
-![alt text](https://cdn.discordapp.com/attachments/771731640930140201/850417500030107648/unknown.png)
+![Animation3](https://user-images.githubusercontent.com/58397806/121400723-33e6c980-c958-11eb-8697-b0f540519981.gif)
+
